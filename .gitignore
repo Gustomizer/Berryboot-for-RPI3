@@ -1,0 +1,8 @@
+dl/*
+output/*gz
+output/*.img
+output/*.dtb
+output/*.dat
+output/*.elf
+output/*.bin
+*.pro.user
