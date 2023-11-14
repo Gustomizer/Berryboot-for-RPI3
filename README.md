@@ -1,3 +1,10 @@
+First of all,
+
+I want to give a special thanks to Floris Bos (maxnet),
+
+who inspired me to start a continuation of his abandoned Berryboot project!
+
+
 Berryboot
 =========
 
